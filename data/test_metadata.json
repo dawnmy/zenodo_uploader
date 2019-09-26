@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "title": "test run",
+        "description": "<p>test</p>",
+        "creators": [{"name": "W, J", "affiliation": "HZI"},{"name": "J, G", "affiliation": "AFF"}],
+        "upload_type": "dataset",
+        "publication_date": "2019-05-30", 
+        "access_right": "open", 
+        "license": { "id": "CC-BY-SA-4.0" }, 
+        "keywords": [ "metagenome", "benchmarking" ] 
+    }
+}
